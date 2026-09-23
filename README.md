@@ -1,6 +1,7 @@
 <img width="2188" height="2185" alt="1000667791" src="https://github.com/user-attachments/assets/7a85b7d4-7288-49bc-ad2f-a1e7e6477cfe" />
+
 # 🛣️ CNeptune
-- *Аналог Ccode на телефоны, который изпользует lua api метод место блоков.*
+- *Аналог Ccode на телефоны, который изпользует lua API метод место блоков.*
 <hr>
 
 # ☠️ Как скачать?
